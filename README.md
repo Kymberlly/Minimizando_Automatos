@@ -1,0 +1,1 @@
+# Minimizando Automatos Finitos Deterministicos
