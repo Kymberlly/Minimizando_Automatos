@@ -1,6 +1,6 @@
 # Minimização de Automatos Finitos Deterministicos
 
-Código construido para a disciplina de Fundamentos Teóricos da Computação - PUC Minas
+Código desenvolvido na linguagem Java, construido para a disciplina de Fundamentos Teóricos da Computação (FTC) - PUC Minas
 
 ## Dependências ##
 
